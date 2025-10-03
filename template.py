@@ -45,4 +45,4 @@ for filepath in list_of_files:
 
 
     else:
-        logging.info(f"{filename} is already exists")c
+        logging.info(f"{filename} is already exists")
